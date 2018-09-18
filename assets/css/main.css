@@ -260,8 +260,8 @@ pre code {
 }
 
 .pickyDemo {
-  height: 75%;
-  width: 75px;
+  height: 100%;
+  width: 100%;
 }
 .highlight pre {
   margin-bottom:0;
