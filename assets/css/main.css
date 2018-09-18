@@ -259,6 +259,10 @@ pre code {
   margin:1rem 0
 }
 
+.pickyDemo {
+  height: 500px;
+  width: 500px
+}
 .highlight pre {
   margin-bottom:0;
   font-size:.875rem
