@@ -608,12 +608,12 @@ span.answer .white{
   background-color: white;
 }
 .projects .block .wrapper #nyuSales{
-  background-image:url("../img/projects/pickyEaterLogo.png");
+  background-image:url("../img/pickyEaterLogo.jpg");
   background-size: contain;
   background-color: white;
 }
 .projects .block .wrapper #pickyEater{
-  background-image:url("../img/projects/poppnLogo.png");
+  background-image:url("../img/poppnLogo.jpg");
   background-size: contain;
   background-color: white;
   width: 100%;
