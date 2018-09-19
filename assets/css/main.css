@@ -603,17 +603,17 @@ span.answer .white{
   background-color:#e4eef2;
 }*/
 .projects .block .wrapper #Poppin{
-  background-image:url("../img/projects/nyuSales.jpg");
+  background-image:url("../img/poppnLogo.jpg");
   background-size: contain;
   background-color: white;
 }
 .projects .block .wrapper #nyuSales{
-  background-image:url("../img/pickyEaterLogo.jpg");
+  background-image:url("../img/projects/nyuSales.jpg");
   background-size: contain;
   background-color: white;
 }
 .projects .block .wrapper #pickyEater{
-  background-image:url("../img/poppnLogo.jpg");
+  background-image:url("../img/pickyEaterLogo.jpg");
   background-size: contain;
   background-color: white;
   width: 100%;
