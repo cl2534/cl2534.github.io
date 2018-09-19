@@ -603,87 +603,22 @@ span.answer .white{
   background-color:#e4eef2;
 }*/
 .projects .block .wrapper #Poppin{
-  background-image:url("../img/projects/slackbot.jpg");
+  background-image:url("../img/projects/nyuSales.jpg");
   background-size: contain;
   background-color: white;
 }
 .projects .block .wrapper #nyuSales{
-  background-image:url("../img/projects/slackbot.jpg");
+  background-image:url("../img/projects/pickyEaterLogo.png");
   background-size: contain;
   background-color: white;
 }
 .projects .block .wrapper #pickyEater{
-  background-image:url("../img/projects/slackbot.jpg");
+  background-image:url("../img/projects/poppnLogo.png");
   background-size: contain;
   background-color: white;
   width: 100%;
   height: 100%;
 }
-.projects .block .wrapper #slackBot{
-  background-image:url("../img/projects/slackbot.jpg");
-  background-size: contain;
-  background-color: white;
-}
-
-.projects .block .wrapper #giphy{
-  background-image:url("../img/projects/giphy1.gif");
-  background-size: contain;
-  background-color: white;
-}
-
-.projects .block .wrapper #findYourBestSpot{
-  background-image:url("../img/projects/spot_logo.png");
-  background-size: contain;
-  /*background-color: white;*/
-  background-color:#F8BF38;
-}
-.projects .block .wrapper #HuffnPuff{
-  background-image:url("../img/projects/zipped6.png");
-  background-size: contain;
-  background-color: white;
-  /*border: 1px solid black;*/
-}
-
-.projects .block .wrapper #hangman{
-  background-image:url("../img/projects/hangman.jpg");
-  background-size: contain;
-  background-color: white;
-  /*border: 1px solid black;*/
-}
-
-.projects .block .wrapper #JaneStreetETC{
-  background-image:url("../img/projects/janestreet.jpeg");
-  background-size: contain;
-  background-color: white;
-  /*border: 1px solid black;*/
-}
-
-.projects .block .wrapper #cbt{
-  background-image:url("../img/projects/computer4.jpeg");
-  background-size: cover;
-  background-color:#2d3439;
-}
-
-.projects .block .wrapper #upenn{
-  background-image:url("../img/projects/upenn.png");
-  background-size: contain;
-  background-color: white;
-  /*border: 1px solid black;*/
-}
-
-#picture1{
-  background-image:url("../img/projects/Picture1.png");
-  /*background-size: auto;*/
-  /*height: inherit;
-  width: inherit;*/
-}
-
-#spot {
-    height: 600px;
-    width: 300px
-
-}
-
 
 .projects .block .wrapper a{
   float:left;position:relative;
