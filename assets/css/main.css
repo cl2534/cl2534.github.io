@@ -441,7 +441,7 @@ h1 {
   height:28px
 }
 .page{
-  padding-bottom:4rem
+  padding-bottom:4rem;
   display:flex
 }
 .page-title{
@@ -602,6 +602,7 @@ span.answer .white{
   background-size: contain;
   background-color:#e4eef2;
 }*/
+
 .projects .block .wrapper #Poppin{
   background-image:url("../img/poppnLogo.jpg");
   background-size: contain;
