@@ -607,6 +607,13 @@ span.answer .white{
   background-size: contain;
   background-color: white;
 }
+
+.projects .block .wrapper #eventTracker{
+  background-image:url("../img/eventTracker.jpg");
+  background-size: contain;
+  background-color: white;
+}
+
 .projects .block .wrapper #nyuSales{
   background-image:url("../img/projects/nyuSales.jpg");
   background-size: contain;
